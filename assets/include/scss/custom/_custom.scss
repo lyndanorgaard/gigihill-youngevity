@@ -1,0 +1,15 @@
+/* Add here all your css styles (customizations) */
+
+// Variables
+@import "custom.variables";
+
+$brand-primary: #f08080;
+
+$font-family-sans-serif: "Montserrat", sans-serif;
+
+// Mixins
+@import "custom.mixins";
+
+@import "custom";
+@import "node_modules/bootstrap/scss/bootstrap";
+
